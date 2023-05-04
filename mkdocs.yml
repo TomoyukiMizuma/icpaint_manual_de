@@ -246,6 +246,7 @@ nav:
   - Ebenenmaske:              layer_mask.md
   - Pinsel:                   brush.md
   - Lineal (Pinsel):          ruler_brush.md
+  - Kurvenpinsel:             curve_brush.md
   - Malen Sie mit verschiedenen Formen(Rechteck, Kreis, Lasso, Vieleck): paint_with_shapes.md
   - Transformieren:           transform.md
   - Vektorebene:              vector_layer.md
